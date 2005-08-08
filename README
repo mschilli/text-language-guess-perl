@@ -29,35 +29,25 @@ DESCRIPTION
 
     Supported Languages:
 
-    *
-    English (en)
+    *   English (en)
 
-    *
-    French (fr)
+    *   French (fr)
 
-    *
-    Spanish (es)
+    *   Spanish (es)
 
-    *
-    Portugese (pt)
+    *   Portugese (pt)
 
-    *
-    Italian (it)
+    *   Italian (it)
 
-    *
-    German (de)
+    *   German (de)
 
-    *
-    Dutch (nl)
+    *   Dutch (nl)
 
-    *
-    Swedish (sv)
+    *   Swedish (sv)
 
-    *
-    Norwegian (no)
+    *   Norwegian (no)
 
-    *
-    Danish (da)
+    *   Danish (da)
 
   Methods
     "new()"
