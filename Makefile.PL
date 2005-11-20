@@ -7,6 +7,7 @@ WriteMakefile(
     'NAME'         => 'Text::Language::Guess',
     'VERSION_FROM' => 'lib/Text/Language/Guess.pm', # finds $VERSION
     'PREREQ_PM'    => {
+        Log::Log4perl      => 1.0,
         Text::ExtractWords => 0,
         Lingua::StopWords  => 0,
         File::Spec         => 0,
